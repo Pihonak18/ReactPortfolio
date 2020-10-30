@@ -1,5 +1,4 @@
 import React from 'react';
-// import { FaEnvelope, FaLinkedin, FaGithub, } from "react-icons/fa";
 
 const Contact = ({contactEmail, contactPara, socialLinks})=>{
 
